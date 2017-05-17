@@ -1,6 +1,9 @@
 # The-Speed-Consumes-Me
 Genre - Chiptune
 
+Song Name: The Speed Consumes Me
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=R9Odb_d5szk&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=39)
 
 Current Song Version: 1.0
